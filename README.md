@@ -22,7 +22,8 @@ Chat-Watch is a simple client-server chat application designed for real-time com
 
    ```sh
    gcc -o server server.c
-   gcc -o client client.c ```
+   gcc -o client client.c
+   ```
 
 2. **Run the Server and Client**
 
